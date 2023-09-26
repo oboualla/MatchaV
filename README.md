@@ -1,12 +1,12 @@
 # Matcha - 42 School Education Project
 
-Matcha is an exciting educational project developed as part of the 42 School curriculum. This README will guide you through the project, its features, technologies used, and how to get started.
+Matcha is an exciting educational project developed as part of the 42 School curriculum. This README will guide you through the project, its features, the technologies used, and how to get started.
 
 ## Project Description
 
-Matcha is a dating application that brings together people with similar interests. It allows users to create profiles, search for potential matches based on various criteria, and interact with each other. This project emphasizes the use of a wide range of technologies, including MySQL for database management, Node.js for server-side scripting, and React.js for the frontend.
+Matcha is a dating application that brings together people with similar interests. It allows users to create profiles, search for potential matches based on various criteria, and interact with each other. This project emphasizes the use of a wide range of technologies, including MySQL for database management, Node.js for server-side scripting, and React.js for the front end.
 
-For detailed project specifications and requirements, please refer to the [Matcha Project Subject](https://cdn.intra.42.fr/pdf/pdf/88549/en.subject.pdf)(:target="_blank").
+For detailed project specifications and requirements, please refer to the [Matcha Project Subject](https://cdn.intra.42.fr/pdf/pdf/88549/en.subject.pdf).
 
 ## Features
 
@@ -16,7 +16,7 @@ Matcha comes with a variety of features to enhance the user experience:
 - **User Profile**: Users can create and edit their profiles, including personal information, interests, and profile pictures.
 - **Matching Algorithm**: Matcha uses a matching algorithm to suggest potential matches based on user preferences, such as age, location, and interests.
 - **Real-Time Notifications**: Users receive real-time notifications when they receive likes or messages from other users.
-- **Chat System**: Users can chat with their matches in real-time through a built-in chat system.
+- **Chat System**: Users can chat with their matches in real time through a built-in chat system.
 - **Geolocation**: Matcha utilizes geolocation to help users find matches in their vicinity.
 - **Report and Block**: Users can report and block other users for inappropriate behavior.
 - **History of Interactions**: Users can see a history of their interactions with other users, including likes and messages.
@@ -28,7 +28,7 @@ Matcha comes with a variety of features to enhance the user experience:
 - **Express.js**: A web application framework for Node.js.
 - **React.js**: The frontend library for building user interfaces.
 - **Socket.io**: For real-time communication.
-- **HTML/CSS**: For styling and structuring the frontend.
+- **HTML/CSS**: For styling and structuring the front end.
 - **Geolocation API**: Utilized for location-based features.
 - **RESTful API**: Used for handling requests and responses.
 
