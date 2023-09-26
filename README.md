@@ -6,7 +6,7 @@ Matcha is an exciting educational project developed as part of the 42 School cur
 
 Matcha is a dating application that brings together people with similar interests. It allows users to create profiles, search for potential matches based on various criteria, and interact with each other. This project emphasizes the use of a wide range of technologies, including MySQL for database management, Node.js for server-side scripting, and React.js for the frontend.
 
-For detailed project specifications and requirements, please refer to the [Matcha Project Subject](https://cdn.intra.42.fr/pdf/pdf/88549/en.subject.pdf){:target="_blank"}.
+For detailed project specifications and requirements, please refer to the [Matcha Project Subject](https://cdn.intra.42.fr/pdf/pdf/88549/en.subject.pdf)(:target="_blank").
 
 ## Features
 
